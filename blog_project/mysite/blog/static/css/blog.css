@@ -3,17 +3,23 @@
 }
 
 .techfont{
+
+  margin: auto;
+  text-align: center;
+
   color: white;
   font-family: 'Raleway', sans-serif;
 
 }
-h1{
-  font-family: 'Raleway', sans-serif;
 
+.post.title{
+  color: red;
 }
-
 .centerstage{
-  background-color: red;
+  display:block;
+  margin-left: 340px;
+  margin-top: 50px;
+  margin-right: auto;
 }
 
 body{
